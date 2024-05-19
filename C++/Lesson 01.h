@@ -1,8 +1,11 @@
-#ifndef MYHEADER_H
-#define MYHEADER_H
+#ifndef LESSON_01
+#define LESSON_01
 
-// Include necessary libraries or other header files
+class Player {
+private:
+    int health
+public:
+    Player();
+}
 
-// Declaration of classes, functions, variables, etc.
-
-#endif // End of header guard
+#endif

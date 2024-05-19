@@ -1,0 +1,33 @@
+FUNCTION BinarySearch( data, target)
+
+    begin <- 0
+    end <- LENGTH( data ) - 1
+
+    WHILE begin <= end
+
+        pivot <- (begin + end) / 2
+        IF data[ pivot ] EQUAL target
+            RETURN pivot
+
+        IF target < data[ pivot ]
+            end <- pivot - 1
+        
+        ELSE
+            begin <- pivot + 1
+    
+    RETURN -1
+
+
+FUNCTION RecursiveBinarySearch( data, target, begin, end)
+
+    pivot <- (begin + end) / 2
+    
+    IF begin > end
+        RETURN -1
+
+    IF data[ pivot ] EQUAL target
+        RETURN pivot
+    ELSE IF target < data[ pivot ]
+        RETURN RecursiveBinarySearch( data, target, begin, pivot - 1)
+    ELSE
+        RETURN RecursiveBinarySearch( data, target, pivot + 1, end)

@@ -1,0 +1,15 @@
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\bin\Debug\net8.0\Vector Cs.exe
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\bin\Debug\net8.0\Vector Cs.deps.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\bin\Debug\net8.0\Vector Cs.runtimeconfig.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\bin\Debug\net8.0\Vector Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\bin\Debug\net8.0\Vector Cs.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.AssemblyInfoInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.AssemblyInfo.cs
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.csproj.CoreCompileInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.sourcelink.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\refint\Vector Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\Vector Cs.genruntimeconfig.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Data Structures\Lists (Dynamic Array)\Vector Cs\obj\Debug\net8.0\ref\Vector Cs.dll

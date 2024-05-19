@@ -1,0 +1,27 @@
+# Basic linear serach by value.
+
+FUNCTION LinearSearch(data, target)
+    FOREACH element IN DATA
+        IF element EQUAL target
+            RETURN element
+    RETURN NULL
+
+# Basic linear serach by index.
+
+FUNCTION LinearSearch(data, target)
+    FOR i FROM 0 TO LENGTH(data)
+        IF data[i] EQUAL target
+            RETURN i
+    RETURN -1 
+
+# Basic linear search by recusion
+
+FUNCTION LinearSearch(data, target, index)
+    IF index GREATEREQUAL LENGTH(data)
+        RETURN -1
+    
+    IF index EQUAL target
+        RETURN index
+
+    RETURN LinearSearch(data, target, index + 1)
+    

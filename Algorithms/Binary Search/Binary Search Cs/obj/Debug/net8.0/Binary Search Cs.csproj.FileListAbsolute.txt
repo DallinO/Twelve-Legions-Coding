@@ -1,0 +1,15 @@
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\bin\Debug\net8.0\Binary Search Cs.exe
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\bin\Debug\net8.0\Binary Search Cs.deps.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\bin\Debug\net8.0\Binary Search Cs.runtimeconfig.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\bin\Debug\net8.0\Binary Search Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\bin\Debug\net8.0\Binary Search Cs.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.AssemblyInfoInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.AssemblyInfo.cs
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.csproj.CoreCompileInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.sourcelink.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\refint\Binary Search Cs.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\Binary Search Cs.genruntimeconfig.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Binary Search\Binary Search Cs\obj\Debug\net8.0\ref\Binary Search Cs.dll

@@ -1,0 +1,30 @@
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\bin\Debug\net8.0\Linear Search Csharp.exe
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\bin\Debug\net8.0\Linear Search Csharp.deps.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\bin\Debug\net8.0\Linear Search Csharp.runtimeconfig.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\bin\Debug\net8.0\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\bin\Debug\net8.0\Linear Search Csharp.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.AssemblyInfoInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.AssemblyInfo.cs
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.sourcelink.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\refint\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\Linear Search Csharp.genruntimeconfig.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search Csharp\obj\Debug\net8.0\ref\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\bin\Debug\net8.0\Linear Search Csharp.exe
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\bin\Debug\net8.0\Linear Search Csharp.deps.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\bin\Debug\net8.0\Linear Search Csharp.runtimeconfig.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\bin\Debug\net8.0\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\bin\Debug\net8.0\Linear Search Csharp.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.AssemblyInfoInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.AssemblyInfo.cs
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.sourcelink.json
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\refint\Linear Search Csharp.dll
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.pdb
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\Linear Search Csharp.genruntimeconfig.cache
+C:\Users\Olson\Documents\GitHub\Twelve-Legions-Coding\Algorithms\Linear Search\Linear Search Cs\obj\Debug\net8.0\ref\Linear Search Csharp.dll
