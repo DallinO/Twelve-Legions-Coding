@@ -1,0 +1,6 @@
+CLASS List
+    size
+    capacity
+    elements
+
+    
