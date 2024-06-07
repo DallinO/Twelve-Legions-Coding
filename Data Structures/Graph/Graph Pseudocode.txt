@@ -1,0 +1,20 @@
+function TopologicalSort(Graph g) -> List of Integers
+    Stack stack = new Stack()
+    Boolean array visited = new Boolean[g.Size()] initialized to false
+
+    function DFS(Vertex v)
+        visited[v] = true
+        for each Edge e in g.Edges(v)
+            if not visited[e.DestId]
+                DFS(e.DestId)
+        stack.Push(v)
+
+    for each Vertex i from 0 to g.Size() - 1
+        if not visited[i]
+            DFS(i)
+
+    List sortedList = new List()
+    while stack is not empty
+        sortedList.Add(stack.Pop())
+
+    return sortedList
