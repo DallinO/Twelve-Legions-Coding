@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|solutionrelative:Exercises\\HelloWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|solutionrelative:Exercises\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9E1F5CB-4D09-431F-980D-B8E4DC0CA7AD}|Exercises\\Exercises.vcxproj|solutionrelative:Exercises\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.h",
+              "DocumentMoniker": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.h",
+              "RelativeDocumentMoniker": "Exercises\\HelloWorld.h",
+              "ToolTip": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.h",
+              "RelativeToolTip": "Exercises\\HelloWorld.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T23:53:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercises\\Main.cpp",
+              "ToolTip": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\Main.cpp",
+              "RelativeToolTip": "Exercises\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T23:51:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "Exercises\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\C\u002B\u002B\\Exercises\\Exercises\\HelloWorld.cpp",
+              "RelativeToolTip": "Exercises\\HelloWorld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T23:49:41.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
