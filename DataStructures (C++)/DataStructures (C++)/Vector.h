@@ -22,7 +22,7 @@ namespace Custom
 
 				for (size_t i = 0; i < rhs._size; ++i)
 				{
-					_data[i] = rhs._data[i];
+					newData[i] = rhs._data[i];
 				}
 
 				delete[] _data;
@@ -51,6 +51,17 @@ namespace Custom
 			return !(*this == rhs);
 		}
 
+		class Iterator;
+		Iterator begin()
+		{
+			return Iterator(_data);
+		}
+
+		Iterator end()
+		{
+			return Iterator(_data + _size);
+		}
+
 		size_t size() { return _size; }
 		size_t capacity() { return _capacity; }
 
@@ -61,9 +72,43 @@ namespace Custom
 	};
 
 	template<typename T>
-	class Iterator
+	class Vector<T>::Iterator
 	{
 	public:
+		Iterator(T* p) : p(p) {}
+
+		T& operator * () const 
+		{
+			return *p;
+		}
+
+		T* operator -> () const
+		{
+			return p;
+		}
+
+		Iterator& operator ++()
+		{
+			++p;
+			return *this;
+		}
+
+		Iterator operator ++(int)
+		{
+			Iterator temp = *this;
+			++(*this);
+			return temp;
+		}
+
+		bool operator == (const Iterator& rhs) const
+		{
+			return p == rhs.p;
+		}
+		
+		bool operator != (const Iterator& rhs) const
+		{
+			return p != rhs.p;
+		}
 
 	private:
 		T* p
