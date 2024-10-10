@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\",
+  "WorkspaceRootPath": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|solutionrelative:DataStructures (C\u002B\u002B)\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{024B046D-2069-4952-8DB5-63DFD0AEAB4E}|DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B).vcxproj|solutionrelative:DataStructures (C\u002B\u002B)\\VectorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -44,23 +44,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "VectorTest.cpp",
-              "DocumentMoniker": "C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp",
+              "DocumentMoniker": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp",
               "RelativeDocumentMoniker": "DataStructures (C\u002B\u002B)\\VectorTest.cpp",
-              "ToolTip": "C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp",
+              "ToolTip": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\VectorTest.cpp",
               "RelativeToolTip": "DataStructures (C\u002B\u002B)\\VectorTest.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T00:36:01.695Z"
+              "WhenOpened": "2024-10-01T00:36:01.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Vector.h",
-              "DocumentMoniker": "C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h",
+              "DocumentMoniker": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h",
               "RelativeDocumentMoniker": "DataStructures (C\u002B\u002B)\\Vector.h",
-              "ToolTip": "C:\\Users\\Olson\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h",
+              "ToolTip": "C:\\Users\\dalli\\OneDrive\\Documents\\GitHub\\Twelve-Legions-Coding\\DataStructures (C\u002B\u002B)\\DataStructures (C\u002B\u002B)\\Vector.h",
               "RelativeToolTip": "DataStructures (C\u002B\u002B)\\Vector.h",
-              "ViewState": "AQIAALcAAAAAAAAAAAAAABkAAAAFAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAmwHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-27T20:58:45.511Z",
               "EditorCaption": ""

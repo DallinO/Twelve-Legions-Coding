@@ -46,24 +46,97 @@ namespace Custom
 			return true;
 		}
 		
-		bool operator != (const Vector& rhs) const
+		bool operator != (const Vector& rhs) const { return !(*this == rhs); }
+
+		T& operator [] (int i) { return _data[i]; }
+		const T& operator[] (int i) const { return _data[i]; }
+
+		void reserve(size_t new_capacity)
 		{
-			return !(*this == rhs);
+			if (new_capacity > _capacity)
+			{
+				T* new_block = new T[new_capacity];
+				for (size_t i = 0; i < _size; ++i)
+				{
+					new_block[i] = _data[i];
+				}
+
+				delete[] _data;
+				_data = new_block;
+				_capacity = new_capacity;
+			}
+		}
+
+		void shrink_to_fit()
+		{
+			if (_capacity > _size)
+			{
+				T* new_block = new T[_size];
+				for (size_t i = 0; i < _size; ++i)
+				{
+					new_block[i] = _data[i];
+				}
+
+				delete[] _data;
+				_data = new_block;
+				_capacity = _size;
+			}
+		}
+
+		void clear()
+		{
+			for (size_t i = 0; i < _size; ++i)
+			{
+				_data[i].~T();
+			}
+
+			_size = 0;
+		}
+
+		void push_back(T element)
+		{
+			if (_size >= _capacity)
+			{
+				reserve(_capacity == 0 ? 1 : _capacity * 2);
+			}
+			_data[_size] = element;
+			++_size;
+		}
+
+		T pop_back()
+		{
+			if (_size < 0)
+			{
+				_data[--_size].~T();
+			}
+		}
+
+		T& front() { return _data[0]; }
+		const T& front() const { return _data[0]; }
+		T& back() { return _data[_size - 1]; }
+		const T& back() const { return _data[_size - 1]; }
+
+		T& at(int i)
+		{
+			if (i >= 0 && i < _size)
+			{
+				return _data[i];
+			}
+			else
+			{
+				throw std::out_of_range("Element out of range.");
+			}
 		}
 
 		class Iterator;
-		Iterator begin()
-		{
-			return Iterator(_data);
-		}
+		Iterator begin() { return Iterator(_data); }
+		Iterator end() { return Iterator(_data + _size); }
 
-		Iterator end()
-		{
-			return Iterator(_data + _size);
-		}
+		bool empty() { return _size == 0; }
 
 		size_t size() { return _size; }
 		size_t capacity() { return _capacity; }
+		T* data() { return _data; }
 
 	private:
 		T* _data;
@@ -111,7 +184,7 @@ namespace Custom
 		}
 
 	private:
-		T* p
+		T* p;
 	};
 
 	/***********************************
