@@ -42,7 +42,13 @@ Additionally, the initial database design couldn’t support complex scheduling 
 
 ## **\*Q: Describe a time when you worked as part of a team. What was your role?**
 
-During my time in the Computing Society, I participated in a mentored project proposed by one of our professors. The horticulture center was having issues with its watering system that led to inconsistent watering times, amounts, and full system failures. We were tasked with designing a conceptual solution to the problem. We developed an embedded system to monitor and automate the watering of plants based on soil moisture levels. We first designed the system virtually and created a simple small-scale model. We were surprised by the kinds of problems that arise when moving from simulations to real-world implementation. Our team faced a challenge when the moisture sensor was providing inconsistent readings, which made it difficult to accurately determine when to water the plants. To address this, I worked closely with the hardware team to determine which sensors provided consistent and predictable input. We successfully implemented a system that accurately measured moisture levels and controlled the watering process. This project taught me the importance of inter-team collaboration.
+I’ve had the opportunity to work on several teams, each under unique circumstances, which gave me a variety of experiences. In my Data Structures course, I partnered with a classmate to develop custom data structures from scratch in C++ using pair programming techniques. It was my first exposure to pair programming, and I gained a real appreciation for how collaborative problem-solving can improve code quality and efficiency.
+
+For larger teams, I worked on a Design Patterns project where we collaborated as equals without a designated leader, making decisions unanimously as a group. It taught me how to navigate shared responsibility and ensure everyone’s voice was heard.
+
+In my Architectural Design course, I was part of a large-scale project where the entire class worked on a single software system. We had a hierarchical structure with a project manager overseeing over a dozen teams. I was the team lead for the Component Design team, which gave me experience coordinating within my team, collaborating with other team leads, and reporting to the project manager.
+
+During my internship, I worked directly with the stakeholder, who gave me the chance to lead communication with third-party contributors and clients. This experience helped me refine my communication skills, particularly when working with seasoned professionals and non-technical clients.
 
 
 
@@ -58,7 +64,7 @@ Once we had a clear framework, our productivity significantly increased. We were
 
 
 
-## **\*Q: What skill do you have that sets you apart?**
+## **Q: What skill do you have that sets you apart?**
 
 I’ve worked a lot with C++, especially through my Aerial Drone Simulator project and other personal and academic work. I’ve gotten pretty comfortable building both common and custom data structures, which has really sharpened my problem-solving skills.
 
@@ -72,7 +78,7 @@ On top of that, I’m pretty adaptable. I pick up new things fast and can adjust
 
 ## **\*Q: Describe a time you made a mistake. How did you handle it?**
 
-[Content missing in original text]
+
 
 
 
@@ -110,7 +116,7 @@ In an industry that evolves as quickly as ours, it’s essential to have enginee
 
 ## **Q: What is your biggest weakness, and how are you addressing it?**
 
-One of my biggest weaknesses is trying to implement too fast. This really became apparent to me while working on my senior project where I wasn’t part of a team that could help provide guidance and set a pace. I knew in my mind what I wanted the final output to be, so I would program a large chunk, adding several components and features at a time before testing, which led to unnecessary excess debugging time. I instead should have focused on core requirement functionality and implemented requirements one at a time, testing after each addition. To address this, I started by changing my mindset to be more patient and prioritize flawless functionality over having many rich features.
+One of my biggest weaknesses is trying to implement too fast. This really became apparent to me while working on my senior project where I wasn’t part of a team that could help provide guidance and set a pace. I knew in my mind what I wanted the final product to be, so I would program a large chunk, adding several components and features at a time before testing, which led to unnecessary excess debugging time. I instead should have focused on core requirement functionality and implemented requirements one at a time, testing after each addition. To address this, I started by changing my mindset to be more patient and prioritize flawless functionality over having many rich features.
 
 
 
