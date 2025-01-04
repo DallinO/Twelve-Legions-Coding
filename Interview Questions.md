@@ -40,7 +40,7 @@ Additionally, the initial database design couldn’t support complex scheduling 
 
 
 
-## **\*Q: Describe a time when you worked as part of a team. What was your role?**
+## **Q: Describe a time when you worked as part of a team. What was your role?**
 
 I’ve had the opportunity to work on several teams, each under unique circumstances, which gave me a variety of experiences. In my Data Structures course, I partnered with a classmate to develop custom data structures from scratch in C++ using pair programming techniques. It was my first exposure to pair programming, and I gained a real appreciation for how collaborative problem-solving can improve code quality and efficiency.
 
@@ -76,9 +76,15 @@ On top of that, I’m pretty adaptable. I pick up new things fast and can adjust
 
 
 
-## **\*Q: Describe a time you made a mistake. How did you handle it?**
+## **Q: Describe a time you made a mistake. How did you handle it?**
 
+During my Design Patterns course, I was part of a team where one of my teammates took on the unofficial role of team lead. We set up a shared Google Doc for collaboration and communicated through Teams. For our first assignment, I decided to take on most of the work myself because I didn’t fully trust my teammates to produce quality results. I spent several hours working on the design, but then I suddenly couldn’t access the document anymore.
 
+When I checked my Teams messages, I realized my teammates had been discussing and dividing up tasks while I was working in isolation. I had essentially overwritten their contributions without realizing it. The team lead had tried reaching out to me multiple times, but since I wasn’t paying attention, they decided to temporarily block my access to the document to avoid further confusion.
+
+As soon as I realized what had happened, I immediately apologized to the team, took full accountability, and worked to rebuild trust. From that point on, we communicated more effectively and ended up working really well together for the rest of the project.
+
+That experience taught me an important lesson: I can’t just try to do everything myself to fast-track a project. I need to trust my teammates, give them the space to do their work, and embrace the process of team collaboration. In the end, I’ve learned that working together makes everything easier and leads to better results.
 
 
 
